@@ -204,6 +204,7 @@ switch (opcion)
 	system("Pause()");
 	}
 }
+<<<<<<< HEAD
 //////////////////////////////////////	BURBUJA /////////////////////////////////////////////
 void Burbuja(){
 	int i,j,n;
@@ -415,6 +416,8 @@ void HeapSort(){
     cout<<A[i] << endl;
 }
 
+=======
+
 //////////////////////////////////////// MERGE SORT /////////////////////////////////////////////////
 void MergeSort(){
 	 int num,i;
@@ -615,4 +618,4 @@ void Binaria(){
 	
 	getch();
 }
-
+>>>>>>> origin/Cristian
